@@ -1,0 +1,8 @@
+# VS生成文件
+Debug/
+Release/
+x64/
+*.sdf
+*.pdb
+*.obj
+*.log
